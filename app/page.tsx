@@ -254,8 +254,6 @@ export default function Home() {
 
 
 
-
-
       {/* Footer */}
       <footer id="contact" className="bg-gray-100 text-gray-600 text-center py-6">
         <p>© 2025 杰森森森. All rights reserved.</p>
